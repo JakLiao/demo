@@ -1,4 +1,4 @@
 add  a comment
 
-if  is_weekend:
+if  is_weekend and not is_litttle_weekend:
     return "·Å¼Ù"
